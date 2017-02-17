@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Modifed from http://andrewshen.net/-->
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Description">
+    <meta name="author" content="Author">
+
+    <title>Portfolio</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{{ url_for('static', filename='bootstrap/css/bootstrap.css') }}" rel="stylesheet" type="text/css">
+	
+    <!-- Custom Theme CSS -->
+    <link href="{{ url_for('static', filename='custom.css') }}" rel="stylesheet">
+</head>
+
+<body>
+	<!-- Header -->
+	<h3>Portfolio</h3>
+	<br>
+	
+	<section id="portfolio">
+		<div class="portfolio-section">
+			<div class="container">
+				<div class="row">
+					<!-- Chess thumbnail -->
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+							<a href="Chess">
+								<img src="{{ url_for('static', filename='chess.png') }}" class="right" alt="Chess"/>
+							</a>
+							<div class="divider"></div>
+							<div class="caption" style="background-color:#020FFC;color:#FFFFFF">
+								<h3 style="margin-top:4px;">Chess</h3>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-ms-6 col-md-4">
+					</div>
+					
+					<!-- CSAir thumbnail -->
+					<div class="col-sm-6 col-md-4">
+						<div class="thumbnail">
+						<a href="CSAir">
+							<img src="{{ url_for('static', filename = 'csair.png') }}" class="left" alt="CSAir"/>
+						</a>
+						<div class="divider"></div>
+						<div class="caption" style="background-color:#020FFC;color:#FFFFFF">
+							<h3 style="margin-top:4px;">CS Air</h3>
+						</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+    <!--<script src="./static/bootstrap/js/bootstrap.min.js"></script>-->
+</body>
+
+</html>

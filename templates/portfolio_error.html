@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--Modifed from http://andrewshen.net/-->
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Description">
+    <meta name="author" content="Author">
+
+    <title>Project - {{ project_name }}</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{{ url_for('static', filename='bootstrap/css/bootstrap.css') }}" rel="stylesheet" type="text/css">
+	
+    <!-- Custom Theme CSS -->
+    <link href="{{ url_for('static', filename='custom.css') }}" rel="stylesheet">
+</head>
+
+<body>
+	<!-- Header -->
+	<h3>Error in input</h3>
+	<br>
+	
+	<div style="margin-left:1%">
+		<p>
+			Either the provided name was blank or too long (more than 80 characters), or the provided email was too long (more than 120 characters).
+			
+			<br>
+			
+			Click to return to <a href="../{{ project_name }}">{{ project_name }} Project</a>.
+		</p>
+	</div>
+	
+    <!--<script src="./static/bootstrap/js/bootstrap.min.js"></script>-->
+</body>
+
+</html>

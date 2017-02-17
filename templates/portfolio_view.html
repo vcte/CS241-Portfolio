@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Description">
+    <meta name="author" content="Author">
+
+    <title>Project File - {{ file_path }}</title>
+	
+    <!-- Bootstrap Core CSS -->
+    <link href="{{ url_for('static', filename='bootstrap/css/bootstrap.css') }}" rel="stylesheet" type="text/css">
+	
+    <!-- Custom Theme CSS -->
+    <link href="{{ url_for('static', filename='custom.css') }}" rel="stylesheet">
+</head>
+
+<body>
+	<!-- Must use <img> tag for images, or file will be downloaded instead of displayed -->
+	{% if file_type == "img" %}
+	<img src="https://subversion.ews.illinois.edu/svn/fa14-cs242/vge2/{{ file_path }}">
+	
+	<!-- Use IFrame by default -->
+	{% else %}
+	<iframe src="https://subversion.ews.illinois.edu/svn/fa14-cs242/vge2/{{ file_path }}" frameborder=0 
+	style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; margin:0; padding:0; overflow:hidden;"></iframe>
+	{% endif %}
+	
+    <!--<script src="./static/bootstrap/js/bootstrap.min.js"></script>-->
+</body>
+
+</html>

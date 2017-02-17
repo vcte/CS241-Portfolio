@@ -1,0 +1,2736 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/util.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/runConfigurations/Ruby.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/res/test.json</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/res/file.json</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/Test/cmd_spec.rb</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.2/res</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.2/.idea/runConfigurations</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/test_plan.pdf</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.2/src/Test</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/res/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/res/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.2/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/gui.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/runConfigurations/Test.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.2/.idea</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/Test/route_net_spec.rb</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.2/src</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/Test/loader_spec.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/cs_air.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src.shy</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/graph.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/cmd.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/route_net.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/Test/util_spec.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/src/io.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.2/.idea/CSAir.iml</path>
+</paths>
+<msg>assignment 2.2</msg>
+</logentry>
+<logentry
+   revision="7287">
+<author>vge2</author>
+<date>2014-10-16T22:56:56.261004Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.2</path>
+</paths>
+<msg>assignment 2.1</msg>
+</logentry>
+<logentry
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.1/src/Test</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/util.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/res/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/res/map_data.json</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/runConfigurations/Test.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/runConfigurations/Ruby.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/res/file.json</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/Test/graph_spec.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.1/src</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/Test/loader_spec.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/cs_air.rb</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.1/res</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/graph.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/cmd.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/route_net.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/Test/util_spec.rb</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.1/.idea/runConfigurations</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/src/io.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.1/.idea/CSAir.iml</path>
+</paths>
+<msg>assignment 2.1</msg>
+</logentry>
+<logentry
+   revision="6559">
+<author>vge2</author>
+<date>2014-10-09T23:00:39.356136Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.1</path>
+</paths>
+<msg>assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.0/src/Test</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/src/util.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/res/map_data.json</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.0/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/.idea/runConfigurations/Ruby.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/src/Test/graph_spec.rb</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.0/src</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/src/Test/loader_spec.rb</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.0/res</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/src/cs_air.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/src/graph.rb</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.0/.idea/runConfigurations</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/src/loader.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/src/Test/util_spec.rb</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/.idea/CSAir.iml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 2.0/.idea/scopes/scope_settings.xml</path>
+</paths>
+<msg>assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="5649">
+<author>vge2</author>
+<date>2014-10-02T03:18:23.850528Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 2.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wk.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wl.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wm.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wn.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Movement/DisplacementsTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wq.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bk.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wr.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bl.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/PieceID.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bm.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Utility.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bn.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bq.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/br.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/Chess.iml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/View.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/ChessTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/SideTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/.idea</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Chess.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/PlayerTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement/Direction.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/Thumbs.db</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Main.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement/Point.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Test/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/MonkeyTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Test</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Input.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Panel.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Monkey.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/LionTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Movement/DirectionTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement/Displacements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/PawnTest.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Movement/PointTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/IPiece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement/Movements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/Thumbs.db</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Lion.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/UtilityTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wb.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Side.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bb.png</path>
+</paths>
+<msg>added GUI interactivity, move highlighting, forfeit / restart, undo / redo, pawn promotion</msg>
+</logentry>
+<logentry
+   revision="4996">
+<author>vge2</author>
+<date>2014-09-25T22:41:23.771450Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2</path>
+</paths>
+<msg>added GUI interactivity, move highlighting, forfeit / restart</msg>
+</logentry>
+<logentry
+   revision="4994">
+<author>vge2</author>
+<date>2014-09-25T22:41:14.936474Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/vge2/Assignment 1.2</path>
+</paths>
+<msg>added GUI interactivity, move highlighting, forfeit / restart</msg>
+</logentry>
+<logentry
+   revision="4833">
+<author>vge2</author>
+<date>2014-09-25T06:32:35.546187Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wk.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wn.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wq.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Movement/DisplacementsTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bk.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wr.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/PieceID.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bn.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Utility.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bq.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/br.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/Chess.iml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/View.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/.idea</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Chess.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement/Direction.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/Thumbs.db</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Main.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement/Point.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Test/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Test</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Input.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Panel.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Monkey.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Movement/DirectionTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement/Displacements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/PawnTest.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Movement/PointTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/IPiece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/Thumbs.db</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Movement/Movements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Lion.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Test/UtilityTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White/wb.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Side.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/White</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.2/src/Chess/Resources/Icons/Black/bb.png</path>
+</paths>
+<msg>added GUI interactivity, move highlighting, forfeit / restart</msg>
+</logentry>
+<logentry
+   revision="4831">
+<author>vge2</author>
+<date>2014-09-25T06:28:26.522056Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4185">
+<author>vge2</author>
+<date>2014-09-19T03:25:27.587969Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/screenshot.png</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.1/src/Chess/Board.java</path>
+</paths>
+<msg>added screenshot</msg>
+</logentry>
+<logentry
+   revision="4034">
+<author>vge2</author>
+<date>2014-09-18T22:42:40.802231Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/LionTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/MonkeyTest.java</path>
+</paths>
+<msg>added tests for lion, monkey</msg>
+</logentry>
+<logentry
+   revision="4018">
+<author>vge2</author>
+<date>2014-09-18T22:27:02.289361Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/test_plan.txt</path>
+</paths>
+<msg>added test plan</msg>
+</logentry>
+<logentry
+   revision="4007">
+<author>vge2</author>
+<date>2014-09-18T22:15:51.037782Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.1/src/Chess/Chess.java</path>
+</paths>
+<msg>chess board has initial positions</msg>
+</logentry>
+<logentry
+   revision="4000">
+<author>vge2</author>
+<date>2014-09-18T22:10:49.805132Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/vge2/Assignment 1.1/latex</path>
+<path
+   kind="dir"
+   action="D">/vge2/Assignment 1.1/html</path>
+</paths>
+<msg>only doxyfile in svn</msg>
+</logentry>
+<logentry
+   revision="3998">
+<author>vge2</author>
+<date>2014-09-18T22:08:40.363526Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/interfaceChess_1_1Pieces_1_1IPiece.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Monkey-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Side.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/doxygen.css</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Lion.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Monkey.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1KnightTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Movement_1_1Movements.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Lion.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_70.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Pawn.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Queen-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Utility.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_72.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1View.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/nomatches.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Side-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1RookTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/close.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1KnightTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Movement_1_1Movements-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Knight.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1UtilityTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Lion-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Pawn-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/interfaceChess_1_1Pieces_1_1IPiece.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_6c.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Pieces_1_1BishopTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Monkey.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classMain.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_63.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Panel.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1King.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Pieces_1_1KingTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_75.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1BoardTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1View-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1RookTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1PawnTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Lion.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Monkey.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Piece.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Pieces_1_1PawnTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1View.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classMain-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Panel-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1BoardTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Movement_1_1Direction.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/index.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_72.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Rook.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1PawnTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/tabs.css</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/installdox</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_62.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Movement_1_1Point.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/search.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_6c.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1QueenTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Movement_1_1DisplacementsTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1King.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Movement_1_1Direction-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Movement_1_1PointTest.tex</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/html/search</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1King.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Lion.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Board.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Pieces_1_1KnightTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Piece.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Lion.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Movement_1_1Direction.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Monkey.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/annotated.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/refman.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Rook.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Movement_1_1Displacements.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_71.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Movement_1_1DisplacementsTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1QueenTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Bishop.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Chess.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Piece.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Rook.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Pieces_1_1RookTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Pieces_1_1QueenTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_6b.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Pawn.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1KingTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Rook-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Movement_1_1Movements.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_62.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Movement_1_1Displacements-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Queen.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Chess.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/search.js</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/annotated.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/Makefile</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_64.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Bishop.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_76.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1UtilityTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Bishop.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Piece.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/doxygen.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1KingTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Piece.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Bishop.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Chess-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_71.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Utility.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classMain.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Rook.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1UtilityTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Movement_1_1DirectionTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Bishop-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Piece-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Rook.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Knight.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_73.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Movement_1_1Displacements.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Pawn.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_6b.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Movement_1_1PointTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_69.html</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classes.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/search.css</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Queen.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/doxygen.sty</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Movement_1_1DisplacementsTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1BishopTest.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Board.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_6d.html</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/latex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Utility-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/tab_b.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Player.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Movement_1_1DirectionTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_64.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/hierarchy.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_76.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Movement_1_1Point.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Panel.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Movement_1_1PointTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/tab_l.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/hierarchy.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_70.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Queen.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/tab_r.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Knight.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Knight.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classTest_1_1Pieces_1_1BishopTest-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Board-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1King.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Bishop.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Side.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Knight.pdf</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Monkey.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Movement_1_1Point-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Pawn.gif</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_73.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Player.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Pawn.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_69.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Knight-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1BoardTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1Queen.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/classChess_1_1Pieces_1_1King-members.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_63.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classTest_1_1Movement_1_1DirectionTest.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1Queen.tex</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/all_75.html</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/latex/classChess_1_1Pieces_1_1King.eps</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/html/search/classes_6d.html</path>
+</paths>
+<msg>doxygen files added</msg>
+</logentry>
+<logentry
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Piece.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Chess.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Lion.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/View.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wb.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement/Displacements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bb.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wk.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Test</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wn.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Panel.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wq.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wr.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bk.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/PieceID.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Utility.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bn.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bq.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement/Movements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/Thumbs.db</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/br.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Monkey.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/UtilityTest.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Movement/DirectionTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Board.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Movement/PointTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/IPiece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Movement/DisplacementsTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/King.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement/Direction.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/Thumbs.db</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Main.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement/Point.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Side.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Test/Movement</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White</path>
+</paths>
+<msg>added unit tests
+</msg>
+</logentry>
+<logentry
+   revision="3991">
+<author>vge2</author>
+<date>2014-09-18T21:58:00.996802Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1</path>
+</paths>
+<msg>added unit tests
+</msg>
+</logentry>
+<logentry
+   revision="3990">
+<author>vge2</author>
+<date>2014-09-18T21:57:44.189915Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/vge2/Assignment 1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3714">
+<author>vge2</author>
+<date>2014-09-18T07:24:45.033441Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Chess.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Lion.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/View.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wb.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement/Displacements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bb.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wk.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Test</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wn.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Panel.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wq.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/wr.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bk.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/PieceID.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Utility.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bn.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/bq.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement/Movements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/Thumbs.db</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black/br.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Monkey.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/Black</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Movement/DirectionTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Board.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Movement/PointTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/IPiece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Test/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/uiDesigner.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement/Direction.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White/Thumbs.db</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Main.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Movement/Point.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Side.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Test/Movement</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess/Resources/Icons/White</path>
+</paths>
+<msg>refactored board to use Piece, static graphics</msg>
+</logentry>
+<logentry
+   revision="3712">
+<author>vge2</author>
+<date>2014-09-18T07:23:42.499769Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3711">
+<author>vge2</author>
+<date>2014-09-18T07:23:05.398565Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/vge2/Assignment 1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3710">
+<author>vge2</author>
+<date>2014-09-18T07:21:32.192504Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Chess</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Test/Movement/DirectionTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Movement/Displacements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Board.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Test/Movement/PointTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Chess.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/IPiece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/Black/Thumbs.db</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Movement/Movements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Test/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/Lion.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Movement/Direction.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/White/Thumbs.db</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Main.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/White/wb.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/Black</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Movement/Point.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Test/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Side.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/White</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/Black/bb.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/White/wk.png</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Test</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Chess/Resources</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/White/wn.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/White/wp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/White/wq.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Panel.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/Black/bk.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/White/wr.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/PieceID.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Test/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/Black/bn.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Utility.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/Black/bp.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/Black/bq.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Resources/Icons/Black/br.png</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/Pieces/Monkey.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/Chess/View.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/Chess/Movement</path>
+</paths>
+<msg>refactored board to use Piece, static graphics</msg>
+</logentry>
+<logentry
+   revision="3705">
+<author>vge2</author>
+<date>2014-09-18T07:09:57.408297Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.1/src/Chess/Panel.java</path>
+</paths>
+<msg>assignment 1.1</msg>
+</logentry>
+<logentry
+   revision="3704">
+<author>vge2</author>
+<date>2014-09-18T07:09:49.855562Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1/src/Chess</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.1</path>
+</paths>
+<msg>assignment 1.1</msg>
+</logentry>
+<logentry
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.0/src/Test</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.0/src/Test/SquareTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.0/src/Test/Movement/PointTest.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.0/src/Test/Pieces</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/src/Chess/Movement/Point.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.0/src/Test/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.0/src/Test/Movement/DirectionTest.java</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.0/src/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Assignment 1.0/src/Test/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/Chess.iml</path>
+</paths>
+<msg>unit tests</msg>
+</logentry>
+<logentry
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/src/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   copyfrom-path="/vge2/Assignment 1.0/src/main.java"
+   copyfrom-rev="2676"
+   action="A">/vge2/Assignment 1.0/src/Main.java</path>
+<path
+   kind="file"
+   action="D">/vge2/Assignment 1.0/src/main.java</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/src/Chess/Square.java</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/src/Chess/Chess.java</path>
+<path
+   kind="file"
+   action="M">/vge2/Assignment 1.0/src/Chess/Board.java</path>
+</paths>
+<msg>check and checkmate functions</msg>
+</logentry>
+<logentry
+   revision="2426">
+<author>vge2</author>
+<date>2014-09-11T07:54:42.941180Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/vge2/Chess.iml</path>
+<path
+   kind="file"
+   copyfrom-path="/vge2/Chess.iml"
+   copyfrom-rev="2425"
+   action="A">/vge2/Assignment 1.0/Chess.iml</path>
+</paths>
+<msg>add chess project</msg>
+</logentry>
+<logentry
+   revision="2425">
+<author>vge2</author>
+<date>2014-09-11T07:54:11.610683Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/vge2/src"
+   copyfrom-rev="2424"
+   action="A">/vge2/Assignment 1.0/src</path>
+<path
+   kind="dir"
+   action="D">/vge2/src</path>
+</paths>
+<msg>add chess project</msg>
+</logentry>
+<logentry
+   revision="2424">
+<author>vge2</author>
+<date>2014-09-11T07:53:41.775233Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/vge2/.idea</path>
+<path
+   kind="dir"
+   copyfrom-path="/vge2/.idea"
+   copyfrom-rev="2423"
+   action="A">/vge2/Assignment 1.0/.idea</path>
+</paths>
+<msg>add chess project</msg>
+</logentry>
+<logentry
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Movement/Displacements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/vge2/.idea</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Movement/Movements.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Movement/Direction.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/src/Chess/Movement</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/src</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Movement/Point.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Side.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/vge2/src/Chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Square.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Chess.java</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Pieces/IPiece.java</path>
+<path
+   kind="file"
+   action="A">/vge2/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/vge2/src/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/vge2/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/vge2/src/main.java</path>
+<path
+   kind="dir"
+   action="A">/vge2/src/Chess</path>
+</paths>
+<msg>add chess project</msg>
+</logentry>
+<logentry
+   revision="2421">
+<author>vge2</author>
+<date>2014-09-11T07:47:33.871087Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment 1.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="608">
+<author>vge2</author>
+<date>2014-09-04T01:58:25.496977Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="607">
+<author>vge2</author>
+<date>2014-09-04T01:58:22.840117Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/src/lanSimulation/LANSimulation.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="606">
+<author>vge2</author>
+<date>2014-09-04T01:58:09.804460Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/src/lanSimulation/tests/LANTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="605">
+<author>vge2</author>
+<date>2014-09-04T01:58:01.955815Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/src/lanSimulation/internals/Node.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="604">
+<author>vge2</author>
+<date>2014-09-04T01:57:59.373206Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/src/lanSimulation/internals/Packet.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="603">
+<author>vge2</author>
+<date>2014-09-04T01:57:39.816553Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/HW0/src/lanSimulation/tests</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="602">
+<author>vge2</author>
+<date>2014-09-04T01:57:32.685448Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/HW0/src/lanSimulation/internals</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="601">
+<author>vge2</author>
+<date>2014-09-04T01:57:21.928434Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/HW0/src/lanSimulation</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="600">
+<author>vge2</author>
+<date>2014-09-04T01:56:58.059517Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/doc/RefactoringAssignment.pdf</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="599">
+<author>vge2</author>
+<date>2014-09-04T01:56:54.313585Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/doc/README</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="597">
+<author>vge2</author>
+<date>2014-09-04T01:56:51.651664Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/doc/LANSimulationDocument.pdf</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="596">
+<author>vge2</author>
+<date>2014-09-04T01:56:48.500152Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/doc/toDoList</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="594">
+<author>vge2</author>
+<date>2014-09-04T01:56:09.127791Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="590">
+<author>vge2</author>
+<date>2014-09-04T01:55:48.317707Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/HW0/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="589">
+<author>vge2</author>
+<date>2014-09-04T01:55:38.625456Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/HW0/doc</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="588">
+<author>vge2</author>
+<date>2014-09-04T01:55:34.070268Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/HW0/bin</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="587">
+<author>vge2</author>
+<date>2014-09-04T01:55:27.682389Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/HW0/.settings</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="584">
+<author>vge2</author>
+<date>2014-09-04T01:54:46.317053Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="583">
+<author>vge2</author>
+<date>2014-09-04T01:54:43.725519Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/.DS_Store</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="582">
+<author>vge2</author>
+<date>2014-09-04T01:54:40.966277Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/.classpath</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="581">
+<author>vge2</author>
+<date>2014-09-04T01:54:38.333557Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/COPYING</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="580">
+<author>vge2</author>
+<date>2014-09-04T01:54:35.763364Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/expectedOutput.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="579">
+<author>vge2</author>
+<date>2014-09-04T01:54:33.129149Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/javadoc.xml</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="578">
+<author>vge2</author>
+<date>2014-09-04T01:54:30.509237Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/HW0/useOutput.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="577">
+<author>vge2</author>
+<date>2014-09-04T01:53:42.945210Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/HW0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="574">
+<author>vge2</author>
+<date>2014-09-04T01:52:52.445905Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/Assignment0/fractal/Fractal.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="573">
+<author>vge2</author>
+<date>2014-09-04T01:52:36.364584Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment0/fractal</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="570">
+<author>vge2</author>
+<date>2014-09-04T01:52:01.964461Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2/Assignment0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="310">
+<author>vge2</author>
+<date>2014-09-03T22:13:08.933980Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/vge2/grocery"
+   copyfrom-rev="309"
+   action="A">/vge2/shopping</path>
+<path
+   kind="dir"
+   action="D">/vge2/grocery</path>
+</paths>
+<msg>moved to shopping</msg>
+</logentry>
+<logentry
+   revision="309">
+<author>vge2</author>
+<date>2014-09-03T22:10:48.926355Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/vge2/grocery/list3.txt</path>
+</paths>
+<msg>vegetarian</msg>
+</logentry>
+<logentry
+   revision="308">
+<author>vge2</author>
+<date>2014-09-03T22:10:16.343639Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/grocery/list3.txt</path>
+</paths>
+<msg>added meats</msg>
+</logentry>
+<logentry
+   revision="307">
+<author>vge2</author>
+<date>2014-09-03T22:08:46.443764Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/vge2/grocery/list2.txt</path>
+</paths>
+<msg>more emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="306">
+<author>vge2</author>
+<date>2014-09-03T22:07:51.916447Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/vge2/grocery/list2.txt</path>
+</paths>
+<msg>emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="305">
+<author>vge2</author>
+<date>2014-09-03T22:06:46.197022Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/vge2/grocery/list2.txt</path>
+</paths>
+<msg>less important vegetable</msg>
+</logentry>
+<logentry
+   revision="304">
+<author>vge2</author>
+<date>2014-09-03T22:05:20.501070Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/vge2/grocery/list2.txt</path>
+</paths>
+<msg>more important vegetable</msg>
+</logentry>
+<logentry
+   revision="302">
+<author>vge2</author>
+<date>2014-09-03T21:51:39.365322Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/vge2/grocery/list2.txt</path>
+</paths>
+<msg>more vegetables</msg>
+</logentry>
+<logentry
+   revision="301">
+<author>vge2</author>
+<date>2014-09-03T21:50:02.531903Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/vge2/grocery/list1.txt</path>
+</paths>
+<msg>need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="298">
+<author>vge2</author>
+<date>2014-09-03T21:45:56.407790Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/vge2/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/vge2/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/vge2/grocery</path>
+</paths>
+<msg>importing</msg>
+</logentry>
+<logentry
+   revision="166">
+<author>root</author>
+<date>2014-09-02T17:45:46.351820Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/vge2</path>
+</paths>
+<msg>created directory vge2</msg>
+</logentry>
+</log>

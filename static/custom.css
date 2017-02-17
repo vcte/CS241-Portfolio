@@ -1,0 +1,62 @@
+/*! light gray background */
+body
+{
+	background-color: #EAEAEA;
+}
+
+/*! headers are aligned to center of page */
+h3 
+{
+	text-align: center;
+	margin-top: 50px;
+}
+
+/*! dimensions / padding for thumbnail picture */
+.pic
+{
+	width:320px;
+	height:320px;
+	margin-top:20px;
+	margin-right:40px;
+	margin-left:40px;
+}
+
+.left
+{
+	float:left;
+}
+
+.right 
+{
+	float:right;
+}
+
+/*!Modifed from: http://stackoverflow.com/questions/15643037/how-do-i-change-the-hover-over-color-for-a-hover-over-table-in-bootstrap*/
+.table-hover tbody tr:hover th
+{
+	background-color: #5AB4FF;
+}
+
+/*! input boxes for comment section are given space from border of page */
+.comment-input
+{
+	margin-left:1%;
+	margin-right:1%;
+	margin-bottom:1%;
+}
+
+/*! icon style - float attribute necessary, or else image becomes massive. margin-top moves icon up to center of panel header */
+.icon
+{
+	float:left;
+	margin-left:2%;
+	margin-top:-8px;
+}
+
+/*! icon image style - shrink image size to 40%, put round border around image */
+.icon img
+{
+	border-radius:50%;
+	width:40%;
+	height:40%;
+}

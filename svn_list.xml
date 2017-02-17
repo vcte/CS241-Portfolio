@@ -1,0 +1,3053 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa14-cs242/vge2">
+<entry
+   kind="dir">
+<name>Assignment 1.0</name>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/.idea</name>
+<commit
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/compiler.xml</name>
+<size>734</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/.idea/copyright</name>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/misc.xml</name>
+<size>525</size>
+<commit
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/modules.xml</name>
+<size>261</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/.idea/scopes</name>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/uiDesigner.xml</name>
+<size>8919</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/.idea/vcs.xml</name>
+<size>176</size>
+<commit
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/Chess.iml</name>
+<size>950</size>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/src</name>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/src/Chess</name>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Board.java</name>
+<size>6071</size>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/BoardTest.java</name>
+<size>420</size>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Chess.java</name>
+<size>892</size>
+<commit
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/src/Chess/Movement</name>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Movement/Direction.java</name>
+<size>593</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Movement/Displacements.java</name>
+<size>958</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Movement/Movements.java</name>
+<size>1252</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Movement/Point.java</name>
+<size>695</size>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/src/Chess/Pieces</name>
+<commit
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Pieces/Bishop.java</name>
+<size>270</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Pieces/IPiece.java</name>
+<size>55</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Pieces/King.java</name>
+<size>265</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Pieces/Knight.java</name>
+<size>270</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Pieces/Pawn.java</name>
+<size>270</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Pieces/Piece.java</name>
+<size>1442</size>
+<commit
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Pieces/Queen.java</name>
+<size>268</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Pieces/Rook.java</name>
+<size>269</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Player.java</name>
+<size>44</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Side.java</name>
+<size>350</size>
+<commit
+   revision="2423">
+<author>vge2</author>
+<date>2014-09-11T07:52:42.899713Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Chess/Square.java</name>
+<size>1287</size>
+<commit
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Main.java</name>
+<size>261</size>
+<commit
+   revision="2681">
+<author>vge2</author>
+<date>2014-09-11T22:24:11.349683Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/src/Test</name>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/src/Test/Movement</name>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Test/Movement/DirectionTest.java</name>
+<size>317</size>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Test/Movement/PointTest.java</name>
+<size>303</size>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.0/src/Test/Pieces</name>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Test/Pieces/PieceTest.java</name>
+<size>90</size>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.0/src/Test/SquareTest.java</name>
+<size>333</size>
+<commit
+   revision="2702">
+<author>vge2</author>
+<date>2014-09-11T23:09:01.720764Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1</name>
+<commit
+   revision="4185">
+<author>vge2</author>
+<date>2014-09-19T03:25:27.587969Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/.idea</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/.idea/copyright</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/.idea/scopes</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/Chess.iml</name>
+<size>950</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/Doxyfile</name>
+<size>63430</size>
+<commit
+   revision="3998">
+<author>vge2</author>
+<date>2014-09-18T22:08:40.363526Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/screenshot.png</name>
+<size>41723</size>
+<commit
+   revision="4185">
+<author>vge2</author>
+<date>2014-09-19T03:25:27.587969Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src</name>
+<commit
+   revision="4185">
+<author>vge2</author>
+<date>2014-09-19T03:25:27.587969Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Chess</name>
+<commit
+   revision="4185">
+<author>vge2</author>
+<date>2014-09-19T03:25:27.587969Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Board.java</name>
+<size>7555</size>
+<commit
+   revision="4185">
+<author>vge2</author>
+<date>2014-09-19T03:25:27.587969Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Chess.java</name>
+<size>1252</size>
+<commit
+   revision="4007">
+<author>vge2</author>
+<date>2014-09-18T22:15:51.037782Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Chess/Movement</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Movement/Direction.java</name>
+<size>593</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Movement/Displacements.java</name>
+<size>958</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Movement/Movements.java</name>
+<size>1400</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Movement/Point.java</name>
+<size>695</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Panel.java</name>
+<size>2269</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/PieceID.java</name>
+<size>152</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Chess/Pieces</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/Bishop.java</name>
+<size>359</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/IPiece.java</name>
+<size>55</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/King.java</name>
+<size>352</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/Knight.java</name>
+<size>359</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/Lion.java</name>
+<size>417</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/Monkey.java</name>
+<size>459</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/Pawn.java</name>
+<size>1045</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/Piece.java</name>
+<size>3384</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/Queen.java</name>
+<size>356</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Pieces/Rook.java</name>
+<size>356</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Player.java</name>
+<size>44</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Chess/Resources</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Chess/Resources/Icons</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Chess/Resources/Icons/Black</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/Black/Thumbs.db</name>
+<size>12800</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/Black/bb.png</name>
+<size>2840</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/Black/bk.png</name>
+<size>4211</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/Black/bn.png</name>
+<size>3492</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/Black/bp.png</name>
+<size>1602</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/Black/bq.png</name>
+<size>3887</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/Black/br.png</name>
+<size>2515</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Chess/Resources/Icons/White</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/White/Thumbs.db</name>
+<size>15360</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/White/wb.png</name>
+<size>3391</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/White/wk.png</name>
+<size>4048</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/White/wn.png</name>
+<size>3649</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/White/wp.png</name>
+<size>2525</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/White/wq.png</name>
+<size>4878</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Resources/Icons/White/wr.png</name>
+<size>2729</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Side.java</name>
+<size>535</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/Utility.java</name>
+<size>220</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Chess/View.java</name>
+<size>1949</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Main.java</name>
+<size>261</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Test</name>
+<commit
+   revision="4034">
+<author>vge2</author>
+<date>2014-09-18T22:42:40.802231Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/BoardTest.java</name>
+<size>1911</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Test/Movement</name>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Movement/DirectionTest.java</name>
+<size>317</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Movement/DisplacementsTest.java</name>
+<size>510</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Movement/PointTest.java</name>
+<size>303</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.1/src/Test/Pieces</name>
+<commit
+   revision="4034">
+<author>vge2</author>
+<date>2014-09-18T22:42:40.802231Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Pieces/BishopTest.java</name>
+<size>1506</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Pieces/KingTest.java</name>
+<size>1202</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Pieces/KnightTest.java</name>
+<size>1130</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Pieces/LionTest.java</name>
+<size>1020</size>
+<commit
+   revision="4034">
+<author>vge2</author>
+<date>2014-09-18T22:42:40.802231Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Pieces/MonkeyTest.java</name>
+<size>1262</size>
+<commit
+   revision="4034">
+<author>vge2</author>
+<date>2014-09-18T22:42:40.802231Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Pieces/PawnTest.java</name>
+<size>2418</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Pieces/QueenTest.java</name>
+<size>1399</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/Pieces/RookTest.java</name>
+<size>1445</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/src/Test/UtilityTest.java</name>
+<size>520</size>
+<commit
+   revision="3992">
+<author>vge2</author>
+<date>2014-09-18T21:58:17.847795Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.1/test_plan.txt</name>
+<size>1283</size>
+<commit
+   revision="4018">
+<author>vge2</author>
+<date>2014-09-18T22:27:02.289361Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/.idea</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/.idea/compiler.xml</name>
+<size>734</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/.idea/copyright</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/.idea/misc.xml</name>
+<size>525</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/.idea/modules.xml</name>
+<size>261</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/.idea/scopes</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/.idea/vcs.xml</name>
+<size>176</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/Chess.iml</name>
+<size>688</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Chess</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Board.java</name>
+<size>9164</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Chess.java</name>
+<size>5177</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Input.java</name>
+<size>1502</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Chess/Movement</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Movement/Direction.java</name>
+<size>593</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Movement/Displacements.java</name>
+<size>958</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Movement/Movements.java</name>
+<size>1502</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Movement/Point.java</name>
+<size>776</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Panel.java</name>
+<size>2898</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/PieceID.java</name>
+<size>152</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Chess/Pieces</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/Bishop.java</name>
+<size>359</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/IPiece.java</name>
+<size>55</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/King.java</name>
+<size>352</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/Knight.java</name>
+<size>359</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/Lion.java</name>
+<size>417</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/Monkey.java</name>
+<size>464</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/Pawn.java</name>
+<size>1045</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/Piece.java</name>
+<size>3713</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/Queen.java</name>
+<size>356</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Pieces/Rook.java</name>
+<size>356</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Player.java</name>
+<size>630</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Chess/Resources</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Chess/Resources/Icons</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/Thumbs.db</name>
+<size>15360</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/bb.png</name>
+<size>2840</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/bk.png</name>
+<size>4211</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/bl.png</name>
+<size>2049</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/bm.png</name>
+<size>1404</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/bn.png</name>
+<size>3492</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/bp.png</name>
+<size>1602</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/bq.png</name>
+<size>3887</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/Black/br.png</name>
+<size>2515</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/Thumbs.db</name>
+<size>20992</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/wb.png</name>
+<size>3391</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/wk.png</name>
+<size>4048</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/wl.png</name>
+<size>2722</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/wm.png</name>
+<size>1899</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/wn.png</name>
+<size>3649</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/wp.png</name>
+<size>2525</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/wq.png</name>
+<size>4878</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Resources/Icons/White/wr.png</name>
+<size>2729</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Side.java</name>
+<size>588</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/Utility.java</name>
+<size>299</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Chess/View.java</name>
+<size>5695</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Main.java</name>
+<size>261</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Test</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/BoardTest.java</name>
+<size>3213</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/ChessTest.java</name>
+<size>1732</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Test/Movement</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Movement/DirectionTest.java</name>
+<size>317</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Movement/DisplacementsTest.java</name>
+<size>510</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Movement/PointTest.java</name>
+<size>303</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 1.2/src/Test/Pieces</name>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Pieces/BishopTest.java</name>
+<size>1506</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Pieces/KingTest.java</name>
+<size>1202</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Pieces/KnightTest.java</name>
+<size>1130</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Pieces/LionTest.java</name>
+<size>1005</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Pieces/MonkeyTest.java</name>
+<size>1250</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Pieces/PawnTest.java</name>
+<size>2418</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Pieces/QueenTest.java</name>
+<size>1399</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/Pieces/RookTest.java</name>
+<size>1445</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/PlayerTest.java</name>
+<size>866</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/SideTest.java</name>
+<size>304</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 1.2/src/Test/UtilityTest.java</name>
+<size>520</size>
+<commit
+   revision="4997">
+<author>vge2</author>
+<date>2014-09-25T22:41:51.898999Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.0</name>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.0/.idea</name>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/.idea/CSAir.iml</name>
+<size>4848</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/.idea/misc.xml</name>
+<size>261</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/.idea/modules.xml</name>
+<size>273</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.0/.idea/runConfigurations</name>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/.idea/runConfigurations/Ruby.xml</name>
+<size>1219</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.0/.idea/scopes</name>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/.idea/vcs.xml</name>
+<size>176</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.0/res</name>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/res/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.0/src</name>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.0/src/Test</name>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/src/Test/graph_spec.rb</name>
+<size>3791</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/src/Test/loader_spec.rb</name>
+<size>284</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/src/Test/util_spec.rb</name>
+<size>677</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/src/cs_air.rb</name>
+<size>768</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/src/graph.rb</name>
+<size>10353</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/src/loader.rb</name>
+<size>506</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.0/src/util.rb</name>
+<size>613</size>
+<commit
+   revision="5858">
+<author>vge2</author>
+<date>2014-10-02T20:59:45.686865Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.1</name>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.1/.idea</name>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/CSAir.iml</name>
+<size>4960</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/misc.xml</name>
+<size>261</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/modules.xml</name>
+<size>273</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.1/.idea/runConfigurations</name>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/runConfigurations/Ruby.xml</name>
+<size>1327</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/runConfigurations/Test.xml</name>
+<size>2171</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.1/.idea/scopes</name>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/.idea/vcs.xml</name>
+<size>176</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.1/res</name>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/res/cmi_hub.json</name>
+<size>1103</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/res/file.json</name>
+<size>19364</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/res/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.1/src</name>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.1/src/Test</name>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/Test/graph_spec.rb</name>
+<size>3796</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/Test/loader_spec.rb</name>
+<size>274</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/Test/util_spec.rb</name>
+<size>677</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/cmd.rb</name>
+<size>17192</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/cs_air.rb</name>
+<size>744</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/graph.rb</name>
+<size>245</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/io.rb</name>
+<size>1749</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/route_net.rb</name>
+<size>6076</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.1/src/util.rb</name>
+<size>613</size>
+<commit
+   revision="6560">
+<author>vge2</author>
+<date>2014-10-09T23:00:53.756511Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.2</name>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.2/.idea</name>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/CSAir.iml</name>
+<size>4718</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/encodings.xml</name>
+<size>171</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/misc.xml</name>
+<size>261</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/modules.xml</name>
+<size>273</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.2/.idea/runConfigurations</name>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/runConfigurations/Ruby.xml</name>
+<size>1327</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/runConfigurations/Test.xml</name>
+<size>2171</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.2/.idea/scopes</name>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/scopes/scope_settings.xml</name>
+<size>143</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/.idea/vcs.xml</name>
+<size>176</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.2/res</name>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/res/cmi_hub.json</name>
+<size>1103</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/res/file.json</name>
+<size>19364</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/res/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/res/test.json</name>
+<size>19374</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.2/src</name>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment 2.2/src/Test</name>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/Test/cmd_spec.rb</name>
+<size>4703</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/Test/loader_spec.rb</name>
+<size>274</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/Test/route_net_spec.rb</name>
+<size>2292</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/Test/util_spec.rb</name>
+<size>677</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/cmd.rb</name>
+<size>19357</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/cs_air.rb</name>
+<size>746</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/graph.rb</name>
+<size>2622</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/gui.rb</name>
+<size>14765</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/io.rb</name>
+<size>1749</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/route_net.rb</name>
+<size>6191</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src/util.rb</name>
+<size>648</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/src.shy</name>
+<size>10202</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment 2.2/test_plan.pdf</name>
+<size>476458</size>
+<commit
+   revision="7288">
+<author>vge2</author>
+<date>2014-10-16T22:57:20.769553Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="574">
+<author>vge2</author>
+<date>2014-09-04T01:52:52.445905Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/fractal</name>
+<commit
+   revision="574">
+<author>vge2</author>
+<date>2014-09-04T01:52:52.445905Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/fractal/Fractal.java</name>
+<size>19663</size>
+<commit
+   revision="574">
+<author>vge2</author>
+<date>2014-09-04T01:52:52.445905Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="608">
+<author>vge2</author>
+<date>2014-09-04T01:58:25.496977Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.DS_Store</name>
+<size>6148</size>
+<commit
+   revision="583">
+<author>vge2</author>
+<date>2014-09-04T01:54:43.725519Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="582">
+<author>vge2</author>
+<date>2014-09-04T01:54:40.966277Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="584">
+<author>vge2</author>
+<date>2014-09-04T01:54:46.317053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="594">
+<author>vge2</author>
+<date>2014-09-04T01:56:09.127791Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="594">
+<author>vge2</author>
+<date>2014-09-04T01:56:09.127791Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="581">
+<author>vge2</author>
+<date>2014-09-04T01:54:38.333557Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="588">
+<author>vge2</author>
+<date>2014-09-04T01:55:34.070268Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="600">
+<author>vge2</author>
+<date>2014-09-04T01:56:58.059517Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="597">
+<author>vge2</author>
+<date>2014-09-04T01:56:51.651664Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="599">
+<author>vge2</author>
+<date>2014-09-04T01:56:54.313585Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="600">
+<author>vge2</author>
+<date>2014-09-04T01:56:58.059517Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="596">
+<author>vge2</author>
+<date>2014-09-04T01:56:48.500152Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="580">
+<author>vge2</author>
+<date>2014-09-04T01:54:35.763364Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="579">
+<author>vge2</author>
+<date>2014-09-04T01:54:33.129149Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="608">
+<author>vge2</author>
+<date>2014-09-04T01:58:25.496977Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="608">
+<author>vge2</author>
+<date>2014-09-04T01:58:25.496977Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="607">
+<author>vge2</author>
+<date>2014-09-04T01:58:22.840117Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>11527</size>
+<commit
+   revision="608">
+<author>vge2</author>
+<date>2014-09-04T01:58:25.496977Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="605">
+<author>vge2</author>
+<date>2014-09-04T01:58:01.955815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>4473</size>
+<commit
+   revision="605">
+<author>vge2</author>
+<date>2014-09-04T01:58:01.955815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="604">
+<author>vge2</author>
+<date>2014-09-04T01:57:59.373206Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="606">
+<author>vge2</author>
+<date>2014-09-04T01:58:09.804460Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10299</size>
+<commit
+   revision="606">
+<author>vge2</author>
+<date>2014-09-04T01:58:09.804460Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="578">
+<author>vge2</author>
+<date>2014-09-04T01:54:30.509237Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="310">
+<author>vge2</author>
+<date>2014-09-03T22:13:08.933980Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="301">
+<author>vge2</author>
+<date>2014-09-03T21:50:02.531903Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="307">
+<author>vge2</author>
+<date>2014-09-03T22:08:46.443764Z</date>
+</commit>
+</entry>
+</list>
+</lists>
